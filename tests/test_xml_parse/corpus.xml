@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<xs:schema>
+  <xs:element name="elementName">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="subelement1" type="xs:string"/>
+        <xs:element name="subelement2" type="xs:string"/>
+        <xs:element name="subelement3" type="xs:string"/>
+        <xs:element name="subelement4" type="xs:string"/>
+        <xs:element name="subelement5" type="xs:string"/>
+        <xs:element name="subelement6" type="xs:string"/>
+        <xs:element name="subelement7" type="xs:string"/>
+        <xs:element name="subelement8" type="xs:string"/>
+        <xs:element name="subelement9" type="xs:string"/>
+        <xs:element name="subelement10" type="xs:string"/>
+        <xs:element name="subelement11" type="xs:string"/>
+        <xs:element name="subelement12" type="xs:string"/>
+        <xs:element name="subelement13" type="xs:string"/>
+        <xs:element name="subelement14" type="xs:string"/>
+        <xs:element name="subelement15" type="xs:decimal"/>
+        <xs:element name="subelement16" type="xs:decimal"/>
+        <xs:element name="subelement17" type="xs:string"/>
+        <xs:element name="subelement18" type="xs:string"/>
+        <xs:element name="subelement19" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
+
+<elementName>
+  <subelement1></subelement1>
+  <subelement2></subelement2>
+  <subelement3></subelement3>
+  <subelement4></subelement4>
+  <subelement5></subelement5>
+  <subelement6></subelement6>
+  <subelement7></subelement7>
+  <subelement8></subelement8>
+  <subelement9></subelement9>
+  <subelement10></subelement10>
+  <subelement11></subelement11>
+  <subelement12></subelement12>
+  <subelement13></subelement13>
+  <subelement14></subelement14>
+  <subelement15></subelement15>
+  <subelement16></subelement16>
+  <subelement17></subelement17>
+  <subelement18></subelement18>
+  <subelement18></subelement18>
+  <subelement19></subelement19>
+</elementName>
+<elementName>
+  <subelement1></subelement1>
+  <subelement2></subelement2>
+  <subelement3></subelement3>
+  <subelement4></subelement4>
+  <subelement5></subelement5>
+  <subelement6></subelement6>
+  <subelement7></subelement7>
+  <subelement8></subelement8>
+  <subelement9></subelement9>
+  <subelement10></subelement10>
+  <subelement11></subelement11>
+  <subelement12></subelement12>
+  <subelement13></subelement13>
+  <subelement14></subelement14>
+  <subelement15></subelement15>
+  <subelement16></subelement16>
+  <subelement17></subelement17>
+  <subelement18></subelement18>
+  <subelement18></subelement18>
+  <subelement18></subelement18>
+  <subelement18></subelement18>
+  <subelement18></subelement18>
+  <subelement19></subelement19>
+</elementName>
