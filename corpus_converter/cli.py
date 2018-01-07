@@ -2,9 +2,7 @@ import click
 
 
 @click.command()
-@click.option('--as-cowboy', '-c', is_flag=True, help='Greet as a cowboy.')
-@click.argument('name', default='world', required=False)
-def main(name, as_cowboy):
-    """Transform an XML corpus to and from other data formats."""
-    greet = 'Howdy' if as_cowboy else 'Hello'
-    click.echo('{0}, {1}.'.format(greet, name))
+@click.argument('corpus_file', type=click.Path(exists=True))
+def main(corpus_file):
+    """Transform an XML corpus to an XLSX spreadsheet.."""
+    click.echo(click.format_filename(corpus_file))
